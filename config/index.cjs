@@ -11,7 +11,7 @@ const USER_CONFIG = {
   APP_ID: 'wxec25afead014e0c1',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: 'cfd60f78125872ce16b7a64956ff0429',
+  APP_SECRET: '13aa4539ba8031bc36f84629d93e01cd',
 
   PROVINCE: '陕西',
   CITY: '西安',
@@ -21,7 +21,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '杨谦宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: ' oFL245uGtEDMKBg-yzpCaOrrbU-w,oFL245tK2AWOuzFvtlnnNI98EKrM',
+      id: 'wxec25afead014e0c1',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'QGn-KPKRhC3W6UEjHDhJjM5ncINeoh6ZiTEJos4Kx9T',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
